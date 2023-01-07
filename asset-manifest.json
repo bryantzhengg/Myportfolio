@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.4b762dd1.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.13223175.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.13223175.chunk.js.map",
-    "runtime-main.js": "/my-portfolio/static/js/runtime-main.bee6ad0a.js",
-    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.bee6ad0a.js.map",
-    "static/js/2.22a98ddf.chunk.js": "/my-portfolio/static/js/2.22a98ddf.chunk.js",
-    "static/js/2.22a98ddf.chunk.js.map": "/my-portfolio/static/js/2.22a98ddf.chunk.js.map",
-    "index.html": "/my-portfolio/index.html",
-    "static/css/main.4b762dd1.chunk.css.map": "/my-portfolio/static/css/main.4b762dd1.chunk.css.map",
-    "static/js/2.22a98ddf.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.22a98ddf.chunk.js.LICENSE.txt",
-    "static/media/excel2.727caac3.png": "/my-portfolio/static/media/excel2.727caac3.png",
-    "static/media/hotel2.cfef1487.png": "/my-portfolio/static/media/hotel2.cfef1487.png",
-    "static/media/java2.b3e9700d.png": "/my-portfolio/static/media/java2.b3e9700d.png",
-    "static/media/pinklandscape.49754a11.jpg": "/my-portfolio/static/media/pinklandscape.49754a11.jpg",
-    "static/media/python3.ff50f44e.png": "/my-portfolio/static/media/python3.ff50f44e.png"
+    "main.css": "/static/css/main.4b762dd1.chunk.css",
+    "main.js": "/static/js/main.8dbe5076.chunk.js",
+    "main.js.map": "/static/js/main.8dbe5076.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c7357b76.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c7357b76.js.map",
+    "static/js/2.2885055e.chunk.js": "/static/js/2.2885055e.chunk.js",
+    "static/js/2.2885055e.chunk.js.map": "/static/js/2.2885055e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4b762dd1.chunk.css.map": "/static/css/main.4b762dd1.chunk.css.map",
+    "static/js/2.2885055e.chunk.js.LICENSE.txt": "/static/js/2.2885055e.chunk.js.LICENSE.txt",
+    "static/media/excel2.727caac3.png": "/static/media/excel2.727caac3.png",
+    "static/media/hotel2.cfef1487.png": "/static/media/hotel2.cfef1487.png",
+    "static/media/java2.b3e9700d.png": "/static/media/java2.b3e9700d.png",
+    "static/media/pinklandscape.49754a11.jpg": "/static/media/pinklandscape.49754a11.jpg",
+    "static/media/python3.ff50f44e.png": "/static/media/python3.ff50f44e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bee6ad0a.js",
-    "static/js/2.22a98ddf.chunk.js",
+    "static/js/runtime-main.c7357b76.js",
+    "static/js/2.2885055e.chunk.js",
     "static/css/main.4b762dd1.chunk.css",
-    "static/js/main.13223175.chunk.js"
+    "static/js/main.8dbe5076.chunk.js"
   ]
 }
