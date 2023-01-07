@@ -4,8 +4,6 @@ import hotel2 from "../assets/hotel2.png";
 import java2 from "../assets/java2.png";
 import excel2 from "../assets/excel2.png";
 
-import React, { useEffect } from 'react';
-
 const Card1 = () => {
   return (
     <div className="projects">
