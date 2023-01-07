@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b762dd1.chunk.css",
-    "main.js": "/static/js/main.8dbe5076.chunk.js",
-    "main.js.map": "/static/js/main.8dbe5076.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c7357b76.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c7357b76.js.map",
-    "static/js/2.2885055e.chunk.js": "/static/js/2.2885055e.chunk.js",
-    "static/js/2.2885055e.chunk.js.map": "/static/js/2.2885055e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.4b762dd1.chunk.css.map": "/static/css/main.4b762dd1.chunk.css.map",
-    "static/js/2.2885055e.chunk.js.LICENSE.txt": "/static/js/2.2885055e.chunk.js.LICENSE.txt",
-    "static/media/excel2.727caac3.png": "/static/media/excel2.727caac3.png",
-    "static/media/hotel2.cfef1487.png": "/static/media/hotel2.cfef1487.png",
-    "static/media/java2.b3e9700d.png": "/static/media/java2.b3e9700d.png",
-    "static/media/pinklandscape.49754a11.jpg": "/static/media/pinklandscape.49754a11.jpg",
-    "static/media/python3.ff50f44e.png": "/static/media/python3.ff50f44e.png"
+    "main.css": "/Myportfolio/static/css/main.4b762dd1.chunk.css",
+    "main.js": "/Myportfolio/static/js/main.a6f42714.chunk.js",
+    "main.js.map": "/Myportfolio/static/js/main.a6f42714.chunk.js.map",
+    "runtime-main.js": "/Myportfolio/static/js/runtime-main.8d6226da.js",
+    "runtime-main.js.map": "/Myportfolio/static/js/runtime-main.8d6226da.js.map",
+    "static/js/2.1b698232.chunk.js": "/Myportfolio/static/js/2.1b698232.chunk.js",
+    "static/js/2.1b698232.chunk.js.map": "/Myportfolio/static/js/2.1b698232.chunk.js.map",
+    "index.html": "/Myportfolio/index.html",
+    "static/css/main.4b762dd1.chunk.css.map": "/Myportfolio/static/css/main.4b762dd1.chunk.css.map",
+    "static/js/2.1b698232.chunk.js.LICENSE.txt": "/Myportfolio/static/js/2.1b698232.chunk.js.LICENSE.txt",
+    "static/media/excel2.727caac3.png": "/Myportfolio/static/media/excel2.727caac3.png",
+    "static/media/hotel2.cfef1487.png": "/Myportfolio/static/media/hotel2.cfef1487.png",
+    "static/media/java2.b3e9700d.png": "/Myportfolio/static/media/java2.b3e9700d.png",
+    "static/media/pinklandscape.49754a11.jpg": "/Myportfolio/static/media/pinklandscape.49754a11.jpg",
+    "static/media/python3.ff50f44e.png": "/Myportfolio/static/media/python3.ff50f44e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7357b76.js",
-    "static/js/2.2885055e.chunk.js",
+    "static/js/runtime-main.8d6226da.js",
+    "static/js/2.1b698232.chunk.js",
     "static/css/main.4b762dd1.chunk.css",
-    "static/js/main.8dbe5076.chunk.js"
+    "static/js/main.a6f42714.chunk.js"
   ]
 }
