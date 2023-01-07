@@ -1,0 +1,95 @@
+h3{
+  color: rgb(51, 40, 40);
+  text-decoration: none;
+  
+  text-align: center;
+  font-size: 35px;
+}
+
+h2{
+  color: rgb(75, 60, 60);
+  text-decoration: none;
+}
+
+p{
+    color: rgb(107, 89, 89);
+    text-decoration: none;
+  }
+
+.text1{
+    position: absolute;
+    transform: translate(-40%, -50%);
+    top: 170%;
+    left: 75%;
+    text-align: right;
+}
+
+.picture1{
+    width: 75%;
+    height: 75%;
+    position: relative;
+    left: 40px;
+    top: 75pt;
+}
+
+.text2{
+  position: absolute;
+  transform: translate(-12%, -50%);
+  top: 240%;
+  left: 14%;
+  text-align: left;
+}
+
+.picture2{
+  width: 55%;
+  height: 55%;
+  position: relative;
+  left: 310px;
+  top: 100pt;
+}
+
+.text3{
+  position: absolute;
+  transform: translate(-12%, -50%);
+  top: 310%;
+  left: 57%;
+  text-align: right;
+}
+
+.picture3{
+  width: 55%;
+  height: 55%;
+  position: relative;
+  left: 75px;
+  top: 120pt;
+}
+
+.text4{
+  position: absolute;
+  transform: translate(-12%, -50%);
+  top: 380%;
+  left: 19%;
+  text-align: right;
+}
+
+.picture4{
+  width: 60%;
+  height: 60%;
+  position: relative;
+  left: 310px;
+  top: 250pt;
+}
+
+.animateProject{
+  position: absolute;
+  top: 115%;
+  left: 44%;
+}
+
+.rectangle {
+  height: 10px;
+  width: 100%;
+  background-color: rgb(233, 223, 223);
+  position: absolute;
+  top: 500%;
+}
